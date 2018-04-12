@@ -1,0 +1,29 @@
+{
+  "name": "MEAN-Practice",
+  "description": "Practice for the MEAN Stack",
+  "version": "0.0.0",
+  "author": "Zack Hartmann <zackhartmann@protonmail.com>",
+  "license": "GPL v2",
+  "keywords": [
+    "express",
+    "framework",
+    "rest",
+    "router",
+    "app",
+    "api"
+  ],
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2"
+  },
+  "devDependencies": {
+    "cookie-parser": "~1.4.3",
+    "express-session": "1.15.6",
+    "mocha": "3.5.3"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
